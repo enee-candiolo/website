@@ -1,0 +1,8 @@
+.avatar{
+	width: 75px;
+	height: 100px;
+	border-radius: 50px;
+}
+.pics{
+	justify-content: space-around;
+}
